@@ -3,14 +3,14 @@
 <div class="slideshow-container">
         <!-- Các slide ảnh -->
         <div class="slide fade">
-            <img src="./assets/image/bg1.png" alt="Slide 1">
+            <img src="./assets/image/112.jpg" alt="Slide 1">
         </div>
         <div class="slide fade">
-            <img src="./assets/image/bg3.png" alt="Slide 2">
+            <img src="./assets/image/123.jpg" alt="Slide 2">
             
         </div>
         <div class="slide fade">
-            <img src="./assets/image/bg2.png" alt="Slide 3">
+            <img src="./assets/image/122.jpg" alt="Slide 3">
         </div>
         
         <!-- Nút điều hướng -->
@@ -346,7 +346,7 @@
                     <h2 class="trending_title">Sản phẩm chất lượng giành cho bạn</h2>
                     <a href="?controller=product&action=index" class="trending_btn">Mua Ngay</a>
                 </div>
-                <img src="./assets/image/sofa.png" alt="" class="sofa" />
+                <img src="./assets/image/tech.webp" alt="" class="tech" />
             </div>
         </div>
     </section>
