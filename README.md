@@ -12,6 +12,7 @@ Dự án được xây dựng theo mô hình **MVC (Model-View-Controller)** s�
 * **Công cụ khác**: XAMPP(để chạy server localhost)
 
 *** ⚙️ Hướng dẫn cài đặt & Chạy dự án**
+
 Để chạy dự án này trên máy cục bộ (localhost), hãy làm theo các bước sau:
 
 **Bước 1: Clone dự án**
@@ -22,9 +23,12 @@ git clone [https://github.com/NDChung9999/Web_TMDT_UTH.git](https://github.com/N
 **Bước 2: Cấu hình Database**
 
 Mở phpMyAdmin (thường là http://localhost/phpmyadmin).
+
 Tạo một cơ sở dữ liệu mới (Ví dụ tên là: tmdt_db).
-Kiểm tra trong thư mục dự án xem có file .sql nào không để Import vào database vừa tạo (nếu không có, bạn cần tự tạo bảng dựa trên các file trong thư mục models).
-Mở file connection.php và cập nhật thông tin kết nối cho phù hợp với máy của bạn: 
+
+Kiểm tra trong thư mục dự án vào folder Database lấy db để Import vào database vừa tạo (nếu không có, bạn cần tự tạo bảng dựa trên các file trong thư mục models).
+
+Mở file connection.php và cập nhật thông tin kết nối cho phù hợp với máy của bạn
 
 **Bước 3: Chạy dự án**
 
