@@ -6,7 +6,7 @@
 <section class="section">
     <div class="auth_container">
         <div class="auth_img">
-            <img src="./assets/image/auth-image.jpg" alt="" class="auth_image" />
+            <img src="./assets/image/bgsinginup.png" alt="" class="auth_image" />
         </div>
         <div class="auth_content">
             <form action="?controller=account&action=login" class="auth_form" method="post">
